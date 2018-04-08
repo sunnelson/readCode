@@ -49,9 +49,6 @@ public class Code_time_0408_sort {
 	
 	/**
 	 * 归并排序
-	 * @param arr
-	 * @param i
-	 * @param j
 	 */
 	//归并算法
 	public static void mergeSort(int[] arr) {
@@ -91,9 +88,6 @@ public class Code_time_0408_sort {
 	
 	/**
 	 * 快速排序
-	 * @param arr
-	 * @param i
-	 * @param j
 	 */
 	//快排算法
 	public static void quickSort(int[] arr) {
@@ -129,9 +123,6 @@ public class Code_time_0408_sort {
 	
 	/**
 	 * 大根堆排序
-	 * @param arr
-	 * @param i
-	 * @param j
 	 */
 	//大根堆排序
 	public static void heapSort(int[] arr) {
